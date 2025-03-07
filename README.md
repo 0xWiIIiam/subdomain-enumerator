@@ -1,6 +1,6 @@
 # Subdomain Enumerator
 
-A  Python program that enumerates subdomains against a wordlist.
+A  Python program that enumerates subdomains against a SecList wordlist.
 
 ## Features
 - Supports both `http` and `https` protocols.
