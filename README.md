@@ -18,7 +18,7 @@ A  Python program that enumerates subdomains against a SecList wordlist.
     pip install -r requirements.txt
     ```
 
-3. Add your custom wordlist in `list.txt`.
+3. Add your custom wordlist in `list.txt` or just use the current one.
 
 4. Run the script:
     ```bash
