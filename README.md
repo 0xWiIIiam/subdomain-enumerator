@@ -10,7 +10,7 @@ A  Python program that enumerates subdomains against a SecList wordlist.
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/subdomain-enumerator.git
+    git clone git clone https://github.com/0xWiIIiam/subdomain-enumerator.git
     ```
 
 2. Install the required dependencies:
